@@ -1,0 +1,8 @@
+开发过程需要安装的软件：
+
+Office Word
+Office Excel
+Office Visio：流程图软件，需破解
+SourceTree：开源的Git客户端
+Axure RP：页面原型软件，需破解
+
